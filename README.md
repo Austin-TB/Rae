@@ -106,7 +106,7 @@ The frontend will be available at `http://localhost:5173`
 - **BACKEND_PORT** - Backend server port (default: 8000)
 - **VITE_API_URL** - Frontend API endpoint (default: http://localhost:8000)
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 rae-agent/
