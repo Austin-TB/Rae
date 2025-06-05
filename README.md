@@ -2,11 +2,10 @@
 
 A modern, full-stack AI assistant application. Rae combines the power of agentic workflows and services to provide comprehensive assistance across various domains.
 
-Check the project out here: ## [Rae](https://chatwithrae.vercel.app)
+Check the project out usig the link below: 
+## [Rae](https://chatwithrae.vercel.app)
 
-## Features
-
-### Capabilities
+## Capabilities
 - **Web Search** - Real-time web search using Tavily
 - **Wikipedia Search** - Access to Wikipedia knowledge base
 - **ArXiv Research** - Scientific paper search and analysis
