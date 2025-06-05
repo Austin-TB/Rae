@@ -2,8 +2,7 @@
 
 A modern, full-stack AI assistant application. Rae combines the power of agentic workflows and services to provide comprehensive assistance across various domains.
 
-Check the project out here:
-## [Rae](https://chatwithrae.vercel.app)
+Check the project out here: ## [Rae](https://chatwithrae.vercel.app)
 
 ## Features
 
