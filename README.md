@@ -47,8 +47,10 @@ Check the project out usig the link below:
 - "Extract text from this image"
 - "Calculate the derivative of x²+3x+2"
 
-## Docker Deployment
-Use the `Dockerfile` to build an image for easy deployment.
+## Local/self Docker Deployment
+Use the `Dockerfile` in the backend submodule to build an image for easy deployment. (Add API keys as docker env variables obv).
+You can use my frontend submodule, or write your own after referring to the API schema in the swagger UI API docs page (<baseurl>/docs)
+Don't forget to set `baseurl` in frontend and allowed origins CORS config in backend.
 
 -----------------------------------------
 Check it out lemme know your thoughts!
