@@ -24,7 +24,7 @@ Check the project out usig the link below:
 
 ### Frontend
 - **React 18** with TypeScript
-- **Vite** - Fast build tool and dev server
+- **Vite** 
 
 ## Deployment
 - **Vercel** - for Frontend
