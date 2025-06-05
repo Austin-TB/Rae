@@ -49,4 +49,9 @@ Check the project out usig the link below:
 
 ## Docker Deployment
 
-Use the `Dockerfile` to build an image for easy deployment:
+Use the `Dockerfile` to build an image for easy deployment.
+-----------------------------------------
+Check it out lemme know your thoughts!
+-----------------------------------------
+
+
