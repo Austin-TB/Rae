@@ -48,8 +48,8 @@ Check the project out usig the link below:
 - "Calculate the derivative of x²+3x+2"
 
 ## Docker Deployment
-
 Use the `Dockerfile` to build an image for easy deployment.
+
 -----------------------------------------
 Check it out lemme know your thoughts!
 -----------------------------------------
