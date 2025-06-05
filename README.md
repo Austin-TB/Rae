@@ -48,9 +48,9 @@ Check the project out usig the link below:
 - "Calculate the derivative of x²+3x+2"
 
 ## Local/self Docker Deployment
-Use the `Dockerfile` in the backend submodule to build an image for easy deployment. (Add API keys as docker env variables obv).
-You can use my frontend submodule, or write your own after referring to the API schema in the swagger UI API docs page (<baseurl>/docs)
-Don't forget to set `baseurl` in frontend and allowed origins CORS config in backend.
+- Use the `Dockerfile` in the backend submodule to build an image for easy deployment. (Add API keys as docker env variables obv).
+- You can use my frontend submodule, or write your own after referring to the API schema in the swagger UI API docs page `<baseurl>/docs)`
+- Don't forget to set `baseurl` in frontend and allowed origins CORS config in backend.
 
 -----------------------------------------
 Check it out lemme know your thoughts!
